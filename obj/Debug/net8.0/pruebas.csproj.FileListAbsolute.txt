@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\pruebas\pruebas\bin\Debug\net8.0\pruebas.exe
+C:\Users\Usuario\source\repos\pruebas\pruebas\bin\Debug\net8.0\pruebas.deps.json
+C:\Users\Usuario\source\repos\pruebas\pruebas\bin\Debug\net8.0\pruebas.runtimeconfig.json
+C:\Users\Usuario\source\repos\pruebas\pruebas\bin\Debug\net8.0\pruebas.dll
+C:\Users\Usuario\source\repos\pruebas\pruebas\bin\Debug\net8.0\pruebas.pdb
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\pruebas.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\pruebas.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\pruebas.dll
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\refint\pruebas.dll
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\pruebas.pdb
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\pruebas.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\pruebas\pruebas\obj\Debug\net8.0\ref\pruebas.dll
